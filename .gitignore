@@ -1,0 +1,11 @@
+# Python bytecode cache
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS-specific clutter
+.DS_Store
