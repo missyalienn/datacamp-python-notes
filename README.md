@@ -6,7 +6,7 @@ This repository contains code examples and exercises from [DataCamp Intermediate
 - Pandas DataFrames  
 - Logic and Control Flow  
 - Loops
-- Case Study: Random Walk Game 
+- Case Study: Random Walks Simulation
 - Matplotlib
 
 ## 📝 Notebooks
